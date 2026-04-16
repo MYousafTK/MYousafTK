@@ -2,16 +2,15 @@
 
 ## 👋 Hi there!  
 
-I’m **Muhammad Yousaf**, a **Senior Software Engineer & AI Solutions Manager** with 3+ years of experience delivering scalable, AI-powered applications and managing cross-functional teams.  
+I’m **Muhammad Yousaf**, a **Senior Software Engineer & AI Solutions Manager** with 4+ years of experience delivering scalable, AI-powered applications and managing cross-functional teams.  
 I’m passionate about combining **Full-Stack Development, Cloud Computing, and AI/LLMs** to build impactful solutions that drive business transformation.  
 
 ---
 
 ## 🚀 What I’m Working On  
-- **LeadLyft** – AI-powered business insights platform with 30+ APIs, delivering personalized reports and conversational analytics.  
-- **AnalyzeEQ** – Sub-product enabling document upload, AI summaries, and conversational AI over documents.  
-- **Benjitron-9000** – An AI workflow automation agent built with FastAPI, LangGraph, and Azure OpenAI.  
-- **AI Auto Interviewer** – End-to-end AI solution with biometric verification, adaptive interviews, and admin dashboards.  
+- **BDE (Business Due Delligence)** – BDE is an AI-powered document intelligence platform that processes files, extracts business data, and enables smart chat using RAG with Claude.
+  It’s built on a scalable, multi-tenant architecture with real-time processing, integrations (like QuickBooks,Monday, SharePoint, and Carbon Voice), and advanced features like scoring, embeddings, and async  document workflows.
+- **sp-talent-finder** is a web application that uses AI to provide intelligent question-and-answer interactions. It allows users to submit questions and receive accurate,  contextually relevant responses from stored content. The platform use advanced AI capabilities to deliver a seamless and engaging experience.
 
 ---
 
@@ -46,7 +45,7 @@ I’m open to collaborating on projects involving:
 
 ## 🛠 Skills  
 
-**Languages & Frameworks**: Python, FastAPI, React, Node.js, Django, JS, HTML, CSS, Liquid, Fx, YAML, Markdown  
+**Languages & Frameworks**: Python, FastAPI, React, Node.js, JS, HTML, CSS, Liquid, Fx, YAML, Markdown  
 **Databases**: PostgreSQL, Dataverse, SQL Server, MySQL  
 **Cloud & AI**: Azure Cloud, Azure OpenAI, Claude API, LangGraph, LLM Integrations  
 **Power Platform**: Power Apps, Power Automate, Power BI, Power Pages, Dataverse, Copilot Studio  
@@ -56,6 +55,9 @@ I’m open to collaborating on projects involving:
 
 ## 📂 Highlight Projects  
 
+- **BDE (Business Due Delligence)** – BDE is an AI-powered document intelligence platform that processes files, extracts business data, and enables smart chat using RAG with Claude.
+  It’s built on a scalable, multi-tenant architecture with real-time processing, integrations (like QuickBooks,Monday, SharePoint, and Carbon Voice), and advanced features like scoring, embeddings, and async  document workflows.
+- **sp-talent-finder** is a web application that uses AI to provide intelligent question-and-answer interactions. It allows users to submit questions and receive accurate,  contextually relevant responses from stored content. The platform use advanced AI capabilities to deliver a seamless and engaging experience.
 - **LeadLyft** – AI-driven platform generating monthly/behavioral reports & chatbot insights for enterprises.  
 - **AnalyzeEQ** – AI-powered document analysis & chat interface for professionals.  
 - **SP-Talent Finder** – Django-based AI platform for intelligent Q&A on knowledge bases.  
