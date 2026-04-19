@@ -57,7 +57,7 @@ I’m open to collaborating on projects involving:
 
 - **BDE (Business Due Delligence)** – BDE is an AI-powered document intelligence platform that processes files, extracts business data, and enables smart chat using RAG with Claude.
   It’s built on a scalable, multi-tenant architecture with real-time processing, integrations (like QuickBooks,Monday, SharePoint, and Carbon Voice), and advanced features like scoring, embeddings, and async  document workflows.
-- **sp-talent-finder** is a web application that uses AI to provide intelligent question-and-answer interactions. It allows users to submit questions and receive accurate,  contextually relevant responses from stored content. The platform use advanced AI capabilities to deliver a seamless and engaging experience.
+- **sp-talent-finder** is a web application for a recruitment agency in Switzerland that uses AI to provide intelligent question-and-answer interactions. It allows users to submit questions and receive accurate,  contextually relevant responses from stored content. The platform use advanced AI capabilities to deliver a seamless and engaging experience.
 - **LeadLyft** – AI-driven platform generating monthly/behavioral reports & chatbot insights for enterprises.  
 - **AnalyzeEQ** – AI-powered document analysis & chat interface for professionals.  
 - **SP-Talent Finder** – Django-based AI platform for intelligent Q&A on knowledge bases.  
