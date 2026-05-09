@@ -59,8 +59,7 @@ I’m open to collaborating on projects involving:
   It’s built on a scalable, multi-tenant architecture with real-time processing, integrations (like QuickBooks,Monday, SharePoint, and Carbon Voice), and advanced features like scoring, embeddings, and async  document workflows.
 - **sp-talent-finder** is a web application for a recruitment agency in Switzerland that uses AI to provide intelligent question-and-answer interactions. It allows users to submit questions and receive accurate,  contextually relevant responses from stored content. The platform use advanced AI capabilities to deliver a seamless and engaging experience.
 - **LeadLyft** – AI-driven platform generating monthly/behavioral reports & chatbot insights for enterprises.  
-- **AnalyzeEQ** – AI-powered document analysis & chat interface for professionals.  
-- **SP-Talent Finder** – Django-based AI platform for intelligent Q&A on knowledge bases.  
+- **AnalyzeEQ** – AI-powered document analysis & chat interface for professionals.   
 - **AI Auto Interviewer** – AI system with adaptive questioning, face verification, and secure eligibility reporting.  
 - **Benjitron-9000** – AI workflow agent with memory persistence and human-in-the-loop approval.  
 - **REST Solution** – AI chatbot integrated with Azure Cognitive Search and OpenAI for document retrieval.  
